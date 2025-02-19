@@ -2,6 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:vcard_maintained/vcard_maintained.dart';
 
 void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
   test('prints formated vcard string', () {
     final vcard = VCard();
     vcard.jobTitle = 'Dr';

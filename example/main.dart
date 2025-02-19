@@ -1,6 +1,8 @@
 import 'package:vcard_maintained/vcard_maintained.dart';
+import 'package:flutter/material.dart';
 
 main() {
+  WidgetsFlutterBinding.ensureInitialized();
   ///Create a new vCard
   var vCard = VCard();
 

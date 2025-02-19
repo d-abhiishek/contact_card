@@ -1,12 +1,12 @@
 name: vcard_maintained
 description: A dart port of vCard JS by Eric J Nesser. Create vCards to import contacts into Outlook, iOS, Mac OS, and Android devices from your website or mobile application.
-version: 0.0.1+1
+version: 0.1.0
 # author: Valery Colong<valery.colong@activspaces.com>
 homepage: https://github.com/valerycolong/vcard
 repository: https://github.com/valerycolong/vcard
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   flutter:

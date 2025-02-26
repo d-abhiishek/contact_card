@@ -1,4 +1,4 @@
-library vcard_maintained;
+library contact_card;
 
 import 'dart:io';
 import 'dart:convert';
@@ -9,5 +9,5 @@ import 'package:intl/intl.dart';
 
 part 'src/mailing_address.dart';
 part 'src/photo.dart';
-part 'src/vcard_formatter.dart';
-part 'src/vcard.dart';
+part 'src/c_card_formatter.dart';
+part 'src/c_card.dart';

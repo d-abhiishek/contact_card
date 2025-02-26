@@ -1,4 +1,4 @@
-part of vcard_maintained;
+part of contact_card;
 
 class MailingAddress {
   /// Represents the actual text that should be put on the mailing label when delivering a physical package

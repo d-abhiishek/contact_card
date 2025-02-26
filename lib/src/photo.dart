@@ -1,4 +1,4 @@
-part of vcard_maintained;
+part of contact_card;
 
 class Photo {
   String? url;

@@ -7,7 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  contact_card:
+  contact_card_flutter:
     path: ../
   
 

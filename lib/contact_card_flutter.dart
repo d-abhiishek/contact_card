@@ -1,4 +1,4 @@
-library contact_card;
+library contact_card_flutter;
 
 import 'dart:io';
 import 'dart:convert';

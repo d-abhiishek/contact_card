@@ -1,4 +1,4 @@
-part of contact_card;
+part of contact_card_flutter;
 
 /// vCard, Valery Colong, May 2019
 class CCard {

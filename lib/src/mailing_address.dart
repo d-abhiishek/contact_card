@@ -1,4 +1,4 @@
-part of contact_card;
+part of contact_card_flutter;
 
 class MailingAddress {
   /// Represents the actual text that should be put on the mailing label when delivering a physical package

@@ -1,4 +1,4 @@
-part of contact_card;
+part of contact_card_flutter;
 
 class CCardFormatter {
   int majorVersion = 3;

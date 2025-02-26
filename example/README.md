@@ -63,7 +63,7 @@ The following shows a cCard with everything filled out.
 
 ```dart
 ///import the package
-import 'package:contact_card/contact_card.dart';
+import 'package:contact_card/contact_card_flutter.dart';
 
 //create a new cCard
 var cCard = CCard();
@@ -161,7 +161,7 @@ Examples are provided below:
 ```dart
 
 ///import the package
-import 'package:contact_card/contact_card.dart';
+import 'package:contact_card/contact_card_flutter.dart';
 
 
 //create a new cCard
